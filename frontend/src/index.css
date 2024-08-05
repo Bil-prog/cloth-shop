@@ -11,3 +11,9 @@
   body {
     min-height: 100vh;
   }
+  :root{
+    --text-primary: #626262;
+    --text-heading: #090909;
+    --text-pop: #d62828;
+    --linear-gradient: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+  }
