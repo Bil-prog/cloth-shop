@@ -16,7 +16,7 @@ const NewCollection = () => {
                 })
             }
         </div>
-    </div>
+    </div> 
   )
 }
 
